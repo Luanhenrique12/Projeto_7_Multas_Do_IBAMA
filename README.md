@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Projeto 8: Análise de Multas Ambientais 🌳💰
+=======
+# Projeto 7: Análise de Multas Ambientais 🌳💰
+>>>>>>> 1f9f127 (atualização)
 ---
 ## O Cenário 👨‍💼
 
