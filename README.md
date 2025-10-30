@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Projeto 8: Análise de Multas Ambientais 🌳💰
-=======
 # Projeto 7: Análise de Multas Ambientais 🌳💰
->>>>>>> 1f9f127 (atualização)
----
+=======
 ## O Cenário 👨‍💼
 
 Você foi contratado(a) como analista de dados júnior em uma agência de transparência governamental. Sua primeira tarefa é analisar um grande conjunto de dados sobre arrecadações de multas ambientais aplicadas pelo IBAMA.
